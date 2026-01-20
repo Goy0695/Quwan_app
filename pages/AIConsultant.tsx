@@ -15,7 +15,7 @@ const AIConsultant: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([
     { 
       role: 'ai', 
-      content: '你好呀！我是你的趣玩小助手。我可以帮你推荐附近的兴趣基地、好玩的组局，或者把你简单的经历变成像“小红书”一样精彩的攻略！你想了解点什么？' 
+      content: '你好呀！我是你的趣玩小助手。我可以帮你推荐附近的兴趣基地、好玩的组局，实用的游玩攻略！你想了解点什么？' 
     }
   ]);
   const [input, setInput] = useState('');
