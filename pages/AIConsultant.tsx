@@ -58,7 +58,7 @@ const AIConsultant: React.FC = () => {
           { parts: [{ text: `Context: ${context}\n\nUser Question: ${userMsg}` }] }
         ],
         config: {
-          systemInstruction: '你是一个叫“趣玩”的社交APP的AI顾问，专门负责解答用户疑问、推荐基地和活动，以及帮用户写精美的社交媒体文案（小红书风格）。',
+          systemInstruction: '你是一个叫“趣玩”的社交APP的AI顾问，专门负责解答用户疑问、推荐基地和活动，以及提供实用的游玩攻略。',
           temperature: 0.8
         }
       });
