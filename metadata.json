@@ -1,0 +1,7 @@
+{
+  "name": "趣玩 (Quwan) - 找对人，才好玩",
+  "description": "趣玩是一款专注于同城线下娱乐的社交APP，通过“兴趣基地”和“组局系统”，帮助18-35岁年轻人降低社交决策成本与信任成本，轻松找到靠谱玩伴。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
